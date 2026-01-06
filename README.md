@@ -9,8 +9,8 @@ A fully functional e-commerce web application with user authentication, cart man
 * **Responsive Design:** Works seamlessly on mobile and desktop.
 
 ## 🛠️ Tech Stack
-* **Frontend:** React.js, Context API / Redux
-* **Backend:** Firebase / Node.js (Adjust based on what you used)
+* **Frontend:** React.js, Redux
+* **Backend:** Node.js 
 * **Styling:** CSS3 / Material UI
 
 ## ⚙️ How to Run
