@@ -16,4 +16,4 @@ A fully functional e-commerce web application with user authentication, cart man
 ## ⚙️ How to Run
 1. Clone the repo
 2. Install dependencies: `npm install`
-3. Start the app: `npm start`
+3. Start the app: `npm run dev`
