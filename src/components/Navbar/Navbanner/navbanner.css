@@ -1,0 +1,31 @@
+.banner{
+    background-color: #232f3e;
+    display: flex;
+    height: 30px;
+    color: White;
+
+}
+
+.leftbanner{
+    display: flex;
+}
+
+.optionnavbanner{
+    display: flex;
+    padding: 8px 9px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    cursor: pointer;
+    &:hover{
+        border: 1px solid;
+        border-radius: px;
+    }
+}
+
+.opall{
+    font-size: 14px;
+    padding-left: px;
+    font-weight: 400;
+}
